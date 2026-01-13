@@ -1,2 +1,0 @@
-temp
-lajk gsajngaieninvnoaksmdvmsaebonesuibhsanmdiomvaisanbeobhurhsidnvmapsibnaisn napuigngu290t81hhb93nb98b93r
