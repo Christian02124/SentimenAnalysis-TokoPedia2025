@@ -62,3 +62,16 @@ predict_sentiment("Barangnya bagus dan pengiriman cepat")
 
 predict_sentiment("barang jelek dan tidak sesuai")
 # Output: negative
+
+## 📊 Visualisasi Hasil
+
+### Distribusi Sentimen
+![Sentimen Sebelum Balancing](images/sentiment_bar.png)
+![Sentimen Setelah Balancing](images/sentiment_bar(balanced).png)
+
+### Evaluasi Model
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Interpretasi Model
+![Top Kata Positif](images/topwords_positive.png)
+![Top Kata Negatif](images/topwords_negative.png)
