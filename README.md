@@ -55,16 +55,16 @@ The goal of this project is to demonstrate a complete **machine learning pipelin
 
 ---
 
-## 📊 Visualisasi Hasil
+## 📊 Result Visualization
 
-### Distribusi Sentimen
+### Sentiment Distribution
 ![Sentimen Sebelum Balancing](images/sentiment_bar.png)
 ![Sentimen Setelah Balancing](images/sentiment_bar(balanced).png)
 
-### Evaluasi Model
+### Model Evaluation
 ![Confusion Matrix](images/confusion_matrix.png)
 
-### Interpretasi Model
+### Model Interpretaion
 ![Top Kata Positif](images/topwords_positive.png)
 ![Top Kata Negatif](images/topwords_negative.png)
 
