@@ -55,19 +55,6 @@ The goal of this project is to demonstrate a complete **machine learning pipelin
 
 ---
 
-## 📊 Result Visualization
-
-### Sentiment Distribution
-![Sentimen Sebelum Balancing](images/sentiment_bar.png)
-![Sentimen Setelah Balancing](images/sentiment_bar(balanced).png)
-
-### Model Evaluation
-![Confusion Matrix](images/confusion_matrix.png)
-
-### Model Interpretaion
-![Top Kata Positif](images/topwords_positive.png)
-![Top Kata Negatif](images/topwords_negative.png)
-
 ## 🚀 Inference Example
 ```python
 predict_sentiment("Barangnya bagus dan pengiriman cepat")
